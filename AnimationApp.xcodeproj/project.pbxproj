@@ -63,13 +63,13 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		A26024CC2514699E009F4BB7 /* New Group */ = {
+		A26024CC2514699E009F4BB7 /* Models */ = {
 			isa = PBXGroup;
 			children = (
 				A26024CE251469C2009F4BB7 /* Animation.swift */,
 				A26024D125148290009F4BB7 /* DataManager.swift */,
 			);
-			path = "New Group";
+			path = Models;
 			sourceTree = "<group>";
 		};
 		A277A9242513D494003C08ED = {
@@ -93,7 +93,7 @@
 		A277A92F2513D494003C08ED /* AnimationApp */ = {
 			isa = PBXGroup;
 			children = (
-				A26024CC2514699E009F4BB7 /* New Group */,
+				A26024CC2514699E009F4BB7 /* Models */,
 				A277A9512513D9CA003C08ED /* SupportingFiles */,
 				A277A94F2513D9B9003C08ED /* ViewControllers */,
 				A277A94E2513D9A3003C08ED /* Storyboards */,
